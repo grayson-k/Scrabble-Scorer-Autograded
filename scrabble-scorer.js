@@ -73,6 +73,7 @@ let scrabbleScorer = function(word) {
   return letterPoints;
 };
 
+
 const scoringAlgorithms = [
   {
     name: "Simple Score",
